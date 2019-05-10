@@ -1,5 +1,6 @@
 ## Titel van jouw website
-www.mijnliveomgeving.com is een website van (..jouw naam..) waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
+Updated Read.me
+www.mijnliveomgeving.com is een website van Taurese Usman waar gebruikers kunnen (..nut gebruiker..) bedoeld voor mensen met de zelfde interesse
 De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
 
 ### Uniek aan dit concept is: 
