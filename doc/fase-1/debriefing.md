@@ -25,7 +25,7 @@ Wat wordt er gevraagd?
  
 
 Welke globale planning is er? 
-
+-----------------------------------------
 Fase 1 
 
  Milestone 
@@ -173,7 +173,7 @@ Evaluatie
  
 
  
-
+---------------------------------
 Wat zijn je eerste ideeen voor jouw project? 
 
 -Ik zit eraan te denken om een website over Game of Thrones® te maken.] 
