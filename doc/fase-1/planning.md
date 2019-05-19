@@ -10,8 +10,8 @@ Deze planning is een levend document (blijven aanpassen aan de werkelijke situat
 ##### WEEK 1
 |         | ma 6/5 | di 7/5 | wo 8/5 | do 9/5 | vr 10/5 | weekend |
 | ------ |------ | ---- | ------ |---- |------ |---- | 
-| 1ste uur | | | | | |x  |
-| 2de uur  | | | | | | x |
+| 1ste uur | | | | | x |  |
+| 2de uur  | | | | | x | |
 | 3de uur  | | | x | | |  |
 | 4de uur  | | | x | | |  |
 | 5de uur  | | | | | |  |
