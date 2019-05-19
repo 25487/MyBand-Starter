@@ -45,7 +45,7 @@ Deze fase duurt 3 weken
 [FO]: </doc/fase-1/functioneel-ontwerp.md>
 [Flow]: <doc/fase-1/flow.svg>
 [Urenschatting]: <doc/fase-1/urenschatting.md>
-[axShare]: <http://w2d1bw.axshare.com/>
+[Wireframe]: <https://github.com/25487/MyBand-Starter/blob/master/Momenteel.rp>
 
 #### Fase 2: Realiseren van de opdracht (in sprints)
 
