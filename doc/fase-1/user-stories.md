@@ -6,8 +6,7 @@
 | U0002 | Gebruiker | een zoek balk | dingen kan opzoeken | | Must have | TODO |
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| G0001 | Geregistreerd gebruiker | mijn profiel foto kunnen aanpassen | zodat ik mezelf goed kan presenteren | | Must have |
-TODO |
+| G0001 | Geregistreerd gebruiker | mijn profiel foto kunnen aanpassen | zodat ik mezelf goed kan presenteren | | Must have |TODO |
 | G0001 | Geregistreerd gebruiker | mijn account kunnen updaten | up to date ben | | Must have |TODO|
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
