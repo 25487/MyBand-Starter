@@ -10,10 +10,10 @@ Deze planning is een levend document (blijven aanpassen aan de werkelijke situat
 ##### WEEK 1
 |         | ma 6/5 | di 7/5 | wo 8/5 | do 9/5 | vr 10/5 | weekend |
 | ------ |------ | ---- | ------ |---- |------ |---- | 
-| 1ste uur | | | | | |  |
-| 2de uur  | | | | | |  |
-| 3de uur  | | | | | |  |
-| 4de uur  | | | | | |  |
+| 1ste uur | | | | | |x  |
+| 2de uur  | | | | | | x |
+| 3de uur  | | | x | | |  |
+| 4de uur  | | | x | | |  |
 | 5de uur  | | | | | |  |
 | 6de uur  | | | | | |  |
 | 7de uur  | | | | | |  |
@@ -24,9 +24,9 @@ Deze planning is een levend document (blijven aanpassen aan de werkelijke situat
 | ------ |------ | ---- | ------ |---- |------ |---- | 
 | 1ste uur | | | | STUDIEDAG | |  |
 | 2de uur  | | | | STUDIEDAG | |  |
-| 3de uur  | | | | STUDIEDAG | | x |
-| 4de uur  | | | | STUDIEDAG | | x |
-| 5de uur  | | |x | STUDIEDAG | | x |
+| 3de uur  | | | x | STUDIEDAG | | x |
+| 4de uur  | | | x | STUDIEDAG | | x |
+| 5de uur  | | | | STUDIEDAG | | x |
 | 6de uur  | | | | STUDIEDAG | |  |
 | 7de uur  | | | | STUDIEDAG |x |  |
 | 8de uur  | | | | STUDIEDAG | x|  |
