@@ -24,12 +24,12 @@ Deze planning is een levend document (blijven aanpassen aan de werkelijke situat
 | ------ |------ | ---- | ------ |---- |------ |---- | 
 | 1ste uur | | | | STUDIEDAG | |  |
 | 2de uur  | | | | STUDIEDAG | |  |
-| 3de uur  | | | | STUDIEDAG | |  |
-| 4de uur  | | | | STUDIEDAG | |  |
-| 5de uur  | | | | STUDIEDAG | |  |
+| 3de uur  | | | | STUDIEDAG | | x |
+| 4de uur  | | | | STUDIEDAG | | x |
+| 5de uur  | | |x | STUDIEDAG | | x |
 | 6de uur  | | | | STUDIEDAG | |  |
-| 7de uur  | | | | STUDIEDAG | |  |
-| 8de uur  | | | | STUDIEDAG | |  |
+| 7de uur  | | | | STUDIEDAG |x |  |
+| 8de uur  | | | | STUDIEDAG | x|  |
 
 ##### WEEK 3
 |         | ma 20/5 | di 21/5 | wo 22/5 | do 23/5 | vr 24/5 | weekend |
