@@ -2,7 +2,7 @@
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | U0001 | Gebruiker | de laatste nieuwberichten zien | op de hoogte kom van wat er is gebeurd | | Must have | TODO |
-| U0002 | Gebruiker | een account aanmaken | toegang krijg tot extra features | | Must have | TODO |
+| U0002 | Gebruiker | een account aanmaken | toegang krijg tot extra features | | Should have | TODO |
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | G0001 | Geregistreerd gebruiker | mijn profiel foto kunnen aanpassen | zodat ik mezelf goed kan presenteren | | Must have | TODO |
