@@ -37,8 +37,8 @@ Deze planning is een levend document (blijven aanpassen aan de werkelijke situat
 | 1ste uur | | | |x| |  |
 | 2de uur  | | | |x| |  |
 | 3de uur  |x| | | | |  |
-| 4de uur  | | | | | |  |
-| 5de uur  | | | | | |  |
+| 4de uur  | | | | | |x|
+| 5de uur  | | | | | |x|
 | 6de uur  | | | | | |  |
 | 7de uur  | | | | | |  |
 | 8de uur  | | | | | |  |
