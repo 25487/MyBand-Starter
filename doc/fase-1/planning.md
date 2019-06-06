@@ -48,19 +48,19 @@ Deze planning is een levend document (blijven aanpassen aan de werkelijke situat
 | ------ |------ | ---- | ------ |---- |------ |---- | 
 | 1ste uur | | | | HEMELVAART | |  |
 | 2de uur  | | | | HEMELVAART | |  |
-| 3de uur  | | | | HEMELVAART | |  |
-| 4de uur  | | | | HEMELVAART | |  |
-| 5de uur  | | | | HEMELVAART | |  |
-| 6de uur  | | | | HEMELVAART | |  |
-| 7de uur  | | | | HEMELVAART | |  |
+| 3de uur  |x| |x| HEMELVAART | |  |
+| 4de uur  | | |x| HEMELVAART | |  |
+| 5de uur  | | | | HEMELVAART | |x|
+| 6de uur  | | | | HEMELVAART | |x|
+| 7de uur  | | | | HEMELVAART | |x|
 | 8de uur  | | | | HEMELVAART | |  |
 
 ##### WEEK 5
 |         | ma 3/6 | di 4/6 | wo 5/6 | do 6/6 | vr 7/6 | weekend |
 | ------ |------ | ---- | ------ |---- |------ |---- | 
-| 1ste uur | | | | | |  |
-| 2de uur | | | | | |  |
-| 3de uur | | | | | |  |
+| 1ste uur | | | | |x|  |
+| 2de uur | | | | |x|  |
+| 3de uur | | |x| | |  |
 | 4de uur | | | | | |  |
 | 5de uur | | | | | |  |
 | 6de uur | | | | | |  |
