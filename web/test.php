@@ -12,7 +12,7 @@
 
 <header>
 <div class="topnav">
-  <a href="index.html">
+  <a href="index.php">
   <img src="yeeters.png" alt="" width="450px;"></a>
   <div class="search-container">
     <form action="test.php">
