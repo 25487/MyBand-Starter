@@ -1,11 +1,10 @@
 ## Mijn Website!
 Updated Read.me!
-www.mijnliveomgeving.com is een website van Taurese Usman waar gebruikers kunnen lezen over de HBO serie: Game of Thrones. Het is bedoeld voor mensen met de zelfde interesse
-De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
+http://25487.hosts2.ma-cloud.nl/web/index.php is een website van Taurese Usman waar gebruikers kunnen lezen over de HBO serie: Game of Thrones. Het is bedoeld voor mensen met de zelfde interesse en/of mensen die er nog geen verstand van hebben.
 
 ### Uniek aan dit concept is: 
- * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
- * tweede u.s.p. (vul hier in, waar jouw site door gaat opvallen, wat zal iedereen onthouden van jouw site?)
+ * Mijn website is anders dan de andere: doordat er informatie is over de beroemde tv serie. en ik heb niet echt websites gezien over hetzelfde onderwerp!
+ * Mijn website valt op omdat (vind ik persoonlijk) er erg mooi en makkelijk te gebruiken uit ziet
 
 ---
 #### Milestones 
@@ -64,7 +63,7 @@ Deze fase duurt 3 weken
 
 | Milestone  | Status | Link |
 | ------ |  ------ | ------ |
-| B1-K3-W2 Link naar de live omgeving                        |  TODO |  <https://mijnliveomgeving.com> |
+| B1-K3-W2 Link naar de live omgeving                        |  DONE |  <https://mijnliveomgeving.com> |
 | B1-K3-W2 Gebruikersdocumentatie / instructie               |  TODO |  [Gebruikers documentatie] |
 | B1-K3-W3 Evaluatie                                         |  TODO |  [Evaluatie] |
 
