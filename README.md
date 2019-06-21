@@ -63,7 +63,7 @@ Deze fase duurt 3 weken
 
 | Milestone  | Status | Link |
 | ------ |  ------ | ------ |
-| B1-K3-W2 Link naar de live omgeving                        |  DONE |  [http://25487.hosts2.ma-cloud.nl/web/index.php  |
+| B1-K3-W2 Link naar de live omgeving                        |  DONE |  http://25487.hosts2.ma-cloud.nl/web/index.php  |
 | B1-K3-W2 Gebruikersdocumentatie / instructie               |  TODO |  [Gebruikers documentatie] |
 | B1-K3-W3 Evaluatie                                         |  TODO |  [Evaluatie] |
 
