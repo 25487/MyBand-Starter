@@ -40,7 +40,7 @@ Deze fase duurt 3 weken
 [Planning]: <doc/fase-1/planning.md>
 [Plan van Aanpak]: <doc/fase-1/plan-van-aanpak.md>
 [User stories]: <doc/fase-1/user-stories.md>
-[Design]: <doc/fase-1/design/design.md/>
+[Design]: <https://github.com/25487/MyBand-Starter/tree/master/designs/>
 [FO]: </doc/fase-1/functioneel-ontwerp.md>
 [Flow]: <doc/fase-1/flow.svg>
 [Urenschatting]: <doc/fase-1/urenschatting.md>
