@@ -42,7 +42,7 @@ Deze fase duurt 3 weken
 [User stories]: <doc/fase-1/user-stories.md>
 [Design]: <https://github.com/25487/MyBand-Starter/tree/master/designs/>
 [FO]: </doc/fase-1/functioneel-ontwerp.md>
-[Flow]: <doc/fase-1/flow.svg>
+[Flow]: <https://github.com/25487/MyBand-Starter/blob/master/doc/Prototype%20Diagram.drawio>
 [Urenschatting]: <doc/fase-1/urenschatting.md>
 [Wireframe]: <https://github.com/25487/MyBand-Starter/blob/master/Momenteel.rp>
 
