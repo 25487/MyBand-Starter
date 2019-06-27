@@ -28,6 +28,10 @@
   <img src="https://nos.nl/data/image/2016/07/31/303956/2048x1152.jpg" width="650px" alt="">
   </div>
 
+  //php connection
+  $connection = new PDO("mysql:host=localhost;dbname=GameofThrones", 'root', 'root');
+  $query = "SELECT * FROM `inhoud` ORDER BY created_at DESC LIMIT 10";
+ //
 
 
 -->
