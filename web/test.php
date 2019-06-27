@@ -56,7 +56,7 @@ if (isset($_GET['id'])) {
 
  * @return mixed|string
 
-function generate_hoodname()
+function generate_character()
 {
 
     $firstnames = array(
