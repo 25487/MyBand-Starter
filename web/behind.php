@@ -14,6 +14,8 @@ $conn = mysqli_connect($servername,$uid,$pwd,$database);
     <meta name="autor" name="Taurese Usman MD1A">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <link href="https://fonts.googleapis.com/css?family=Cinzel+Decorative&display=swap" rel="stylesheet">
 </head>
 
@@ -31,42 +33,40 @@ $conn = mysqli_connect($servername,$uid,$pwd,$database);
 </header>
 <div class="parallax"></div>
 
-<div style="height:100px; text-align: center;">
-<h2>Episodes</h2>
-<u>Bevat spoilers</u>
-</div>
-<div style="text-align: center; font-family: arial;">
-<h2 style="text-align: center">De top 15 afleveringen ranked!</h2>
-<img src="https://www.bleedingcool.com/wp-content/uploads/2019/04/battleofwinterfell.jpg" text-align:"center" width="750px;">
-<h3 style="text-align: center">15 Best 'Game of Thrones' Episodes</h3>
-<br>1.Hardhome. -Season 5, Episode 9.<br>
-<br>2.Battle of the Bastards. -Season 6, Episode 9.<br>
-<br>3.Blackwater. -Season 2, Episode 9.<br>
-<br>4.The Rains of Castamere. -Season 3, Episode 9.<br>
-<br>5.The Spoils of War. -Season 7, Episode 4.<br>
-<br>6.The Door. -Season 6, Episode 5.<br>
-<br>7.The Winds of Winter. -Season 6, Episode 10.<br>
-<br>8.Baelor. -Season 1, Episode 9.<br>
-<br>9. The Mountain and the Viper. -Season 4, Episode 8.<br>
-<br>10. Winter Is Coming. -Season 1, Episode 1.<br>
-<br>11. The Children. -Season 4, Episode 10.<br>
-<br>12. The Lion and the Rose. -Season 4, Episode 2.<br>
-<br>13. Home. -Season 6, Episode 2.<br>
-<br>14. The Climb. -Season 3, Episode 6.<br>
-<br>15. The Bear and the Maiden Fair. -Season 3, Episode 7.<br>
+<div style="height:150px; text-align: center;">
+<h2>Behind The Scenes</h2>
 
-
-<br> En een van mijn favoriete episodes is: A Knight Of The Seven Kingdoms. -Season 8, Episode 2.<br>
+<u>Hier zie je over de behind the scenes!</u>
 </div>
 
 
 
 
-<body style="text-align: center;">
-  <h2>Waar gaat Game of Thrones eigenlijk over?</h2>
-  <h3>Game of Thrones is een Amerikaanse fantasy-televisieserie die sinds 17 april 2011 uitgezonden wordt op de televisiezender HBO. Sinds 2017 zijn nieuwe afleveringen in Nederland alleen nog on demand te zien bij Ziggo. De serie is gebaseerd op de boeken uit de serie Het lied van ijs en vuur van de Amerikaanse schrijver George R.R. Martin.</h3>
-<br style="height: 75px;">_________________________________________________________________________<br>
-<q>Het verhaal van Game of Thrones speelt zich af in een mythische wereld, vooral in de Zeven Koninkrijken op het westelijke continent Westeros. Maar ook in het uiterste noorden van Westeros en op het oostelijke continent Essos.</q>
+
+<body style="height: 100px;">
+
+
+<article style="text-align: right; margin-right: 100px;">
+        <h1>Making Game of Thrones</h1>
+        <p>Er <b>komt</b> binnenkort een documentaire over het filmen van Game of Thrones...</p>
+        <a href="https://www.youtube.com/watch?v=9K7c0jXkaGc">Hier zie je het!</a>
+</article>
+<img style="text-align: center; margin-left: 100px;" src="https://pmcdeadline2.files.wordpress.com/2019/05/4c885fc5869edfc268f21ab2f78f9ee2819a080e746fd80e54832b7dd220ade67d94d5a832c20695effef37fc9c4fdf727b5caa3152fd4e9514d0f5a81416da1-e1558929344877.jpg?w=681&h=383&crop=1" >
+<article style="text-align: left; margin-left: 100px;">
+          <h1>Table-read</h1>
+        <p>Hier<b>zie je</b> de officiele table-read van de laatste season van Game of Thrones...</p>
+        <a href="https://www.youtube.com/watch?v=9K7c0jXkaGc">Hier zie je het!</a>
+        ...
+</article>
+
+<article style="text-align: right; margin-right: 100px;">
+    <img src="https://www.tvovermind.com/wp-content/uploads/2017/08/got-game-of-thrones-visual-effects-wight-battle-behind-scenes-2-640x480.jpg" alt="">
+        <h1>Green Screen!</h1>
+        <p>Bij het <b>filmen</b> word er ook veel gebruik gemaakt van greenscreens...
+          <a href="https://www.youtube.com/watch?v=_twjQ43HXHA">Bijvoorbeeld...</a>
+        </p>
+</article>
+
 </body>
 
 <footer color="white" style="text-align: center;">
