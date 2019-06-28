@@ -1,3 +1,10 @@
+<?php
+include 'dbVars.php';
+$search = $_GET['q'];
+$type = $_GET['type'];
+$conn = mysqli_connect($servername,$uid,$pwd,$database);
+
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -16,8 +23,8 @@
   <img src="yeeters.png" alt="" width="450px;"></a>
   <div class="search-container">
     <form action="test.php">
-      <input type="text" placeholder="Search.." name="search">
-      <button type="submit">Submit</button>
+      <input type="text" placeholder="Zoeken..." name="search">
+      <button type="submit">Zoek</button>
     </form>
   </div>
 </div>
