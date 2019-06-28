@@ -1,3 +1,10 @@
+<?php
+include 'dbVars.php';
+$search = $_GET['q'];
+$type = $_GET['type'];
+$conn = mysqli_connect($servername,$uid,$pwd,$database);
+
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -16,8 +23,8 @@
   <img src="yeeters.png" alt="" width="450px;"></a>
   <div class="search-container">
     <form action="test.php">
-      <input type="text" placeholder="Search.." name="search">
-      <button type="submit">Submit</button>
+      <input type="text" placeholder="Zoeken..." name="search">
+      <button type="submit">Zoek</button>
     </form>
   </div>
 </div>
@@ -58,14 +65,19 @@
 <body style="text-align: center;">
   <h2>Waar gaat Game of Thrones eigenlijk over?</h2>
   <h3>Game of Thrones is een Amerikaanse fantasy-televisieserie die sinds 17 april 2011 uitgezonden wordt op de televisiezender HBO. Sinds 2017 zijn nieuwe afleveringen in Nederland alleen nog on demand te zien bij Ziggo. De serie is gebaseerd op de boeken uit de serie Het lied van ijs en vuur van de Amerikaanse schrijver George R.R. Martin.</h3>
+<br style="height: 75px;">_________________________________________________________________________<br>
 <q>Het verhaal van Game of Thrones speelt zich af in een mythische wereld, vooral in de Zeven Koninkrijken op het westelijke continent Westeros. Maar ook in het uiterste noorden van Westeros en op het oostelijke continent Essos.</q>
 </body>
 
-<footer color="white">
+<footer color="white" style="text-align: center;">
 
 
 Contact:
-<a href="https://www.instagram.com/dyz.t/">Instagram</a>
+<a href="https://www.instagram.com/dyz.t/">Instagram </a>
+|
+<a href="https://www.youtube.com/channel/UC3dBmpYWXFhr34MXjkU0aNw?view_as=subscriber">Youtube</a>
+|
+<a href="https://www.facebook.com/HBO/">Facebook</a>
 <p>&copy; Taurese Usman MD1A
 	</p>
 </footer>
