@@ -1,3 +1,9 @@
+<?php
+include 'dbVars.php';
+$search = $_GET['q'];
+$type = $_GET['type'];
+$conn = mysqli_connect($servername,$uid,$pwd,$database);
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -29,7 +35,7 @@
   </div>
 
   //php connection
-  $connection = new PDO("mysql:host=localhost;dbname=GameofThrones", 'root', 'root');
+  $connection = new PDO("mysql:host=localhost;dbname=GameofThrones", 'c3678Taurese', 'test123');
   $query = "SELECT * FROM `inhoud` ORDER BY created_at DESC LIMIT 10";
  //
 
